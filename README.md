@@ -1,1 +1,2 @@
-# mer-os
+# merat os
+![](merat.png)
