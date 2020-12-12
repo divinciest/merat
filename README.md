@@ -1,5 +1,5 @@
 # merat bot engine
-![](merat.png)
+![](meratbotengine.png)
 
 
 
