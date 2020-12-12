@@ -1,4 +1,4 @@
-# merat os
+# merat bot engine
 ![](merat.png)
 
 
